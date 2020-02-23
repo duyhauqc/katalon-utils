@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>haunguyen_katalon_utils</name>
+   <tag></tag>
+   <UUID>e8d3d691-058f-4335-8baf-debf6e1d7d52</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\HAU NGUYEN -TEQ\Katalon Studio\haunguyen_katalon_utils\haunguyen_katalon_utils.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <type>MOBILE</type>
+</Project>
